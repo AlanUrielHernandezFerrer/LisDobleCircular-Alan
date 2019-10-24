@@ -83,7 +83,6 @@ public class ListaDobleCircular {
         System.out.println("\nConsulta si la lista está vacia");
         System.out.println(listaCircular.esVacia());
 
-        System.out.println("\n\nFin de ejemplo lista simple");
     }
 }
 
