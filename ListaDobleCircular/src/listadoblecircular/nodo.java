@@ -10,13 +10,14 @@ package listadoblecircular;
  * @author Alan
  */
 public class nodo {
- int dato;
- nodo next;
- nodo ant;
- nodo(int a)
- {
-  dato=a;
-  ant=null;
-  next=null;
- }
+
+    int dato;
+    nodo next;
+    nodo ant;
+
+    nodo(int a) {
+        dato = a;
+        ant = null;
+        next = null;
+    }
 }
